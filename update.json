@@ -1,9 +1,9 @@
 {
-  "versionCode": 230803,
-  "versionName": "23.8.3",
-  "notes": "무한의 탑 RPG v23.8.3 업데이트가 준비됐어. 기존 캐릭터 진행 데이터는 유지돼.",
-  "downloadUrl": "https://github.com/dydwns3885-ui/infinite-tower-updates/releases/download/v23.8.3/InfiniteTower-v23.8.3.apk",
-  "releaseUrl": "https://github.com/dydwns3885-ui/infinite-tower-updates/releases/tag/v23.8.3",
-  "sha256": "b064fe2abaa33d40ecffabc754828f6416db128b0f5963d4f2a56f7c5b818107",
-  "publishedAt": "2026-11-24T14:29:58.386581+00:00"
+  "versionCode": 230804,
+  "versionName": "23.8.4",
+  "notes": "무한의 탑 RPG v23.8.4 업데이트가 준비됐어. 기존 캐릭터 진행 데이터는 유지돼.",
+  "downloadUrl": "https://github.com/dydwns3885-ui/infinite-tower-updates/releases/download/v23.8.4/InfiniteTower-v23.8.4.apk",
+  "releaseUrl": "https://github.com/dydwns3885-ui/infinite-tower-updates/releases/tag/v23.8.4",
+  "sha256": "3fa4ec4ab5e994076a2b3b05fef01442e2e6590e04b718a38f7d832719780a89",
+  "publishedAt": "2026-11-24T14:38:58.113268+00:00"
 }
