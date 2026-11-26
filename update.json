@@ -1,9 +1,9 @@
 {
-  "versionCode": 250309,
-  "versionName": "25.3.9",
-  "notes": "무한의 탑 RPG v25.3.9 업데이트가 준비됐어. 기존 캐릭터 진행 데이터는 유지돼.",
-  "downloadUrl": "https://github.com/dydwns3885-ui/infinite-tower-updates/releases/download/v25.3.9/InfiniteTower-v25.3.9.apk",
-  "releaseUrl": "https://github.com/dydwns3885-ui/infinite-tower-updates/releases/tag/v25.3.9",
-  "sha256": "4971e57ddb775012ace7cee9d7c9fd0e9c5099664c5b4ad2651836e4c6868be9",
-  "publishedAt": "2026-11-26T08:41:03.983666+00:00"
+  "versionCode": 250310,
+  "versionName": "25.3.10",
+  "notes": "무한의 탑 RPG v25.3.10 업데이트가 준비됐어. 기존 캐릭터 진행 데이터는 유지돼.",
+  "downloadUrl": "https://github.com/dydwns3885-ui/infinite-tower-updates/releases/download/v25.3.10/InfiniteTower-v25.3.10.apk",
+  "releaseUrl": "https://github.com/dydwns3885-ui/infinite-tower-updates/releases/tag/v25.3.10",
+  "sha256": "1407c0bd20b07e137d0fad4181981d2e4a370cb9600943e640e57ce1ecff1e2e",
+  "publishedAt": "2026-11-26T08:48:12.299310+00:00"
 }
